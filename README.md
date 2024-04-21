@@ -1,5 +1,5 @@
 
-# Welcome to the Machine Learning Classes repository!
+# Bem vindo!
 
 # Visão Geral
 O objetivo deste projeto é fornecer um recurso abrangente para aprender os fundamentos do aprendizado de máquina. Se você é um iniciante procurando mergulhar no mundo do ML ou alguém que busca reforçar seu entendimento de conceitos fundamentais, este repositório foi projetado para guiá-lo pelos aspectos essenciais.
