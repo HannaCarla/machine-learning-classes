@@ -16,6 +16,9 @@ Neste repositório, você encontrará:
 - Trechos de Código: Trechos de código úteis e exemplos para ilustrar conceitos e técnicas-chave.
 - Conjuntos de Dados: Conjuntos de dados de exemplo usados nos notebooks para prática prática.
 
+# Drive
+https://drive.google.com/drive/folders/1e3MS8e7pHHkqEMIg0gKQByMcX4XmXep-?usp=drive_link
+
 # Referências
 Utilizaremos como referência principial o livro Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras e Tensorflow, do Aurelien Geron. 
 Link: https://www.amazon.com.br/M%C3%A3os-obra-aprendizado-Scikit-Learn-inteligentes/dp/8550815489
